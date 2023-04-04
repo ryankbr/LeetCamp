@@ -1,3 +1,3 @@
 ﻿# LeetCamp Resources
  
-![image](https://user-images.githubusercontent.com/73092944/229680285-636a8586-9d25-4bec-b284-56e263bbeb54.png)
+![image](https://user-images.githubusercontent.com/73092944/229680338-11189515-468e-422a-8b4e-d2221cb93b9f.png)
